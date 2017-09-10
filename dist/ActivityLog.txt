@@ -1,0 +1,8 @@
+DB connected
+Login successful as test
+at 2017-09-10T20:15:34.137
+en_US
+Logged out as test
+at 2017-09-10T20:16:04.679
+
+

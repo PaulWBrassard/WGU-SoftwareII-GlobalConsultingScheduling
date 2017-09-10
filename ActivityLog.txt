@@ -1,0 +1,37 @@
+DB connected
+Login successful as test
+at 2017-07-16T03:21:27.526
+en_US
+Logged out as test
+at 2017-07-16T03:24:50.416
+
+
+DB connected
+Login successful as test
+at 2017-07-16T03:25:21.132
+en_US
+Logged out as test
+at 2017-07-16T03:26:07.600
+
+
+Login successful as test
+at 2017-07-16T03:26:11.691
+en_US
+test added "; DROP table customer; with Customer Id: 3
+Logged out as test
+at 2017-07-16T03:27:43.079
+
+
+Login successful as test
+at 2017-07-16T03:27:46.899
+en_US
+test updated "; DROP table customer;
+Logged out as test
+at 2017-07-16T03:30:00.631
+
+
+Login successful as test
+at 2017-07-16T03:30:04.794
+en_US
+Customer 3 deleted from records
+
